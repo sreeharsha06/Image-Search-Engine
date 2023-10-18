@@ -48,10 +48,6 @@ To run this project, you need:
 
 You can configure the server and client behavior by adjusting environment variables, server parameters, or modifying the `.proto` file for gRPC service definitions.
 
-## Testing
-
-To test the server and client, follow the testing instructions provided in the project's documentation.
-
 ## License
 
 This project is licensed under the XYZ License - see the [LICENSE](LICENSE) file for details.
